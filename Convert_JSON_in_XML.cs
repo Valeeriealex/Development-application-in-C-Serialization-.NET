@@ -10,6 +10,8 @@ namespace Convert_JSON_in_XML
 {
     internal class Convert_JSON_in_XML
     {
+        //Напишите приложение, конвертирующее произвольный JSON в XML. Используйте JsonDocument.
+        
         static void Main(string[] args)
         {
             //Данные в формате JSON
