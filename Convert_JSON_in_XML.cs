@@ -8,7 +8,7 @@ using System.Xml.Linq;
 
 namespace Convert_JSON_in_XML
 {
-    internal class Program
+    internal class Convert_JSON_in_XML
     {
         static void Main(string[] args)
         {
